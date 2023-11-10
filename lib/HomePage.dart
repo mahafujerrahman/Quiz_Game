@@ -115,12 +115,12 @@ class _QuizAppState extends State<QuizApp> {
     final Question currentQuestion = quizDataList.questions[currentQuestionIndex];
 
     if (selectedAnswer == currentQuestion.correctAnswer) {
-      // Handle correct answer
+     
       setState(() {
-        score++; // Increment the score for correct answers
+        score++; 
       });
     } else {
-      // Handle incorrect answer
+      
     }
 
     if (selectedAnswer == currentQuestion.correctAnswer) {
@@ -141,7 +141,7 @@ class _QuizAppState extends State<QuizApp> {
   void resetQuiz() {
     setState(() {
       currentQuestionIndex = 0;
-      score = 0; // Reset the score
+      score = 0; 
       quizCompleted = false;
     });
   }
