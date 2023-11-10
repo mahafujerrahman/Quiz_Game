@@ -1,8 +1,9 @@
 ## Quiz_Game
-![1](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/9bbf90fd-c4e4-4b86-ac3a-bcd64c1e6235)
-![2](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/5644964d-3eaa-4177-89e5-3ce6faabe034)
-![3](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/9f206820-5568-4dad-9f24-6c3aca957074)
+![1](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/c5fc89c4-d919-4c70-a547-43485447ab88)
 
+![2](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/35a5cb7f-84c0-4a9b-bad8-c173eaba884d)
+
+![3](https://github.com/mahafujerrahman/Quiz_Game/assets/86947799/defbc14e-d31d-4c90-8c07-3d57b1efef56)
 
 
 
